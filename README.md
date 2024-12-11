@@ -11,7 +11,7 @@ The proposed system takes into account meta-data about the problem, which can va
 
 ****Modules:**
 **1. Data Collection**
-Utilized the excel file and imported it to the jupyter notebook and imported all the necessary libraries like numpy, pandas, seaborn, matplotlib.
+Utilized the excel file and imported it to the jupyter notebook and imported all the necessary libraries like pandas, seaborn, matplotlib.
 
 ![000](https://github.com/user-attachments/assets/0fab91af-ba82-4a75-86be-ea9809674ec7)
 
